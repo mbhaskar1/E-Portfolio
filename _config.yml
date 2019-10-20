@@ -1,7 +1,7 @@
 title:            Bhaskar Mishra
 description:      Your site description...
 copyright:        Bhaskar Mishra
-url: https://mbhaskar1.github.io/E-Portfolio/
+url: https://mbhaskar1.github.io/E-Portfolio
 
 
 future:      false  # publish future dated posts --  true, false (default)
@@ -56,5 +56,3 @@ exclude:
   - package.json
   - spec
   - tmp
-
-theme: jekyll-theme-slate
