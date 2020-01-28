@@ -1,9 +1,4 @@
----
-layout: post
-title: Courses
----
-
-<h3>Spring 2020</h3>
+I"0<h3>Spring 2020</h3>
 <ul style="list-style-type:square;">
     <li>Data Structures and Algorithms</li>
     <li>Linear Algebra</li>
@@ -21,3 +16,4 @@ title: Courses
     <li>Differential Equations</li>
     <li>Research and Creativity</li>
 </ul>
+:ET

@@ -7,11 +7,12 @@ url: https://mbhaskar1.github.io/E-Portfolio
 future:      false  # publish future dated posts --  true, false (default)
 highlighter: rouge
 markdown:    kramdown
-gems:
-  - jekyll-sitemap
+plugins:
   - jekyll-paginate
+  - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jekyll-include-cache
 
 sass:
   sass_dir: _sass
